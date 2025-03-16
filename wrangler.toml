@@ -1,4 +1,3 @@
 name = "astro-http-demo"
-account_id = "d4ad3997a6029ef675992a195000c498"
 
 pages_build_output_dir = "dist"
